@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="merhaba">
+    <test name="ilk test">
+        <packages>
+            <package name="tests.day14.C01">
+
+            </package>
+        </packages>
+    </test>
+</suite>
